@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 29.429 s <<< FAILURE! - in TestSuite
+loginTest(com.amol.testcases.LoginTest)  Time elapsed: 15.205 s  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	null,
+	null
+	at com.amol.testcases.LoginTest.loginTest(LoginTest.java:37)
+

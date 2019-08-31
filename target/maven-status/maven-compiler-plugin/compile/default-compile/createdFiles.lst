@@ -1,0 +1,8 @@
+com\amol\pages\HomePage.class
+com\amol\utilities\ExcelReader.class
+com\amol\pages\SignUpPage.class
+com\amol\utilities\ExtentManager.class
+com\amol\pages\ZohoAppPage.class
+com\amol\base\Page.class
+com\amol\pages\LoginPage.class
+com\amol\utilities\Utilities.class
